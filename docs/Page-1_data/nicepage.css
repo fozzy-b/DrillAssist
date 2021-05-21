@@ -11902,6 +11902,7 @@ section.u-image,
 }
 .u-gutter-30 .u-layout {
   margin: -15px;
+  /*margin-top: 5%;*/
 }
 .u-gutter-30 .u-layout .u-layout-cell {
   border: 15px solid transparent;
