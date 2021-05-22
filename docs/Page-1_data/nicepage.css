@@ -8432,7 +8432,7 @@ section.u-image,
 .u-sheet {
   position: relative;
   width: 1140px;
-  margin: 0 auto;
+  margin: -4% auto;
 }
 @media (min-width: 1200px) {
   .u-sheet {
